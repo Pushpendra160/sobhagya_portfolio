@@ -1048,12 +1048,21 @@ h1,
 {
     font-size: 5rem;
 }
-h1.vlt-large-heading,
+/* h1.vlt-large-heading,
 .h1.vlt-large-heading
 {
-    font-size: 7.5rem;
+    font-size: 1.5rem;
     font-weight: 600;
-}
+} */
+/* @media only screen and (max-width: 767px)
+{
+    h1.vlt-large-heading, .h1.vlt-large-heading
+    {
+        font-size: 1.5rem;
+        font-weight: 600;
+    }
+} */
+
 
 h2,
 .h2
